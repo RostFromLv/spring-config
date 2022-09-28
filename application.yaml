@@ -6,4 +6,4 @@ spring:
     config:
       server:
         git:
-          uri: ${HOME}/spring/cloud/config/repository
+          uri: C:\Users\Exoft-User\spring\config
