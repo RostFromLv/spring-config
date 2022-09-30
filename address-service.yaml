@@ -31,8 +31,8 @@ spring:
     password: ${spring.datasource.password}
   datasource:
     url: jdbc:postgresql://localhost:5432/booking
-    password: postgres
-    username: postgres
+    password: root
+    username: root
     driver-class-name: org.postgresql.Driver
 
 # Actuator properties
