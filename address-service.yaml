@@ -21,7 +21,7 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
   application:
-    name: booking-api-say-HELLO
+    name: address-service
 #  flyway:
  #   enabled: true
  #   baseline-on-migrate: true
