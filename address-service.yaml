@@ -21,7 +21,7 @@ spring:
       hibernate:
         dialect: org.hibernate.dialect.PostgreSQLDialect
   application:
-    name: address-service
+    name: address-service-SO
   flyway:
     enabled: true
     baseline-on-migrate: true
