@@ -33,7 +33,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/hotels
     username: postgres
-    password: postgres
+    password: root
     driver-class-name: org.postgresql.Driver
   cloud:
     discovery:
