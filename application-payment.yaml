@@ -5,7 +5,7 @@ server:
 # Spring properties
 spring:
   application:
-    name: payments-service
+    name: application-payment
   redis:
     host: ${REDIS_HOST:localhost}
     port: ${REDIS_PORT:6379}
